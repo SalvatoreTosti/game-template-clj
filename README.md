@@ -1,4 +1,4 @@
-# tetris-clj
+# game-template-clj
 
 FIXME: description
 

@@ -1,4 +1,4 @@
-(ns tetris-clj.core
+(ns game.core
   (:require [quil.core :as q]
             [quil.middleware :as m])
   (:gen-class))
